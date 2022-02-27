@@ -1,0 +1,169 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A great plot discovered against the whole kingdome of England. Wherein is declared, the manner how an army from Denmark should have landed in the island of Loving-land. for the invading and subverting this nation, and violating the lawes thereof. Also, a discovery of the Earl of Montrosse his design in Denmark and his raising of an army in the said kingdome. Published by authority, and presented to all true lovers of England's prosperity.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A85128</idno>
+            <idno type="STC">Wing F47</idno>
+            <idno type="STC">Thomason E374_7</idno>
+            <idno type="STC">ESTC R201339</idno>
+            <idno type="EEBO-CITATION">99861863</idno>
+            <idno type="PROQUEST">99861863</idno>
+            <idno type="VID">159927</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A85128)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 159927)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 60:E374[7])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A great plot discovered against the whole kingdome of England. Wherein is declared, the manner how an army from Denmark should have landed in the island of Loving-land. for the invading and subverting this nation, and violating the lawes thereof. Also, a discovery of the Earl of Montrosse his design in Denmark and his raising of an army in the said kingdome. Published by authority, and presented to all true lovers of England's prosperity.</title>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for G. Cotton,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>Feb. 8. 1647.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signatures: A⁴.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Montrose, James Graham, --  Marquis of, 1612-1650 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-03</date>
+            <label>Geremy Carnes</label>Sampled and proofread</change>
+         <change>
+            <date>2013-03</date>
+            <label>Geremy Carnes</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:159927:1" rendition="simple:additions"/>
+            <p>A GREAT PLOT DISCOVERED Againſt the whole <hi>KINGDOME</hi> OF ENGLAND.</p>
+            <p>Wherein is declared, The manner how an Army from <hi>Denmarke,</hi> ſhould have landed in the Iſland of <hi>Loving-land.</hi> for the invading and ſubverting this Na<g ref="char:EOLhyphen"/>tion, and violating the Lawes thereof.</p>
+            <p>Alſo, a Diſcovery of the Earl of <hi>Montroſſe</hi> his Deſign in <hi>Denmark</hi> and his raiſing of an Army in the ſaid Kingdome.</p>
+            <p>Publiſhed by Authority, and preſented to all true lovers of <hi>England's</hi> Proſperity.</p>
+            <p>
+               <hi>London,</hi> Printed for <hi>G. Cotton,</hi> Feb. 8. 1647.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:159927:2"/>
+            <pb facs="tcp:159927:2"/>
+            <head>A TRVE RELATION OF The great Plot diſcovered in Suffolk, againſt the Kingdom of <hi>England.</hi>
+            </head>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <opener>
+                     <salute>Worthy Sir,</salute>
+                  </opener>
+                  <p>I Having ſuch a fit opportunity, to accom<g ref="char:EOLhyphen"/>pany my deſires, my pen could no longer ceaſe from paper, but thought meet, to declare it ſelf to all true-lovers of <hi>Englands</hi> pro<g ref="char:EOLhyphen"/>ſperity. For this enſuing ſubject is of ſo great concernment, for the common preſer<g ref="char:EOLhyphen"/>vation of the Kingdom of <hi>England,</hi> that I ſhal
+<pb facs="tcp:159927:3"/>moſt willingly expoſe my life and fame to all hazard and contempt, for the welfare of my Country.</p>
+                  <p>I have obſerved all the windings and tur<g ref="char:EOLhyphen"/>nings of the Malignant party, in their ob<g ref="char:EOLhyphen"/>ſtructing of this places ſecurity, ever ſince the beginning of theſe ſad divided times. Sove<g ref="char:EOLhyphen"/>raign favours tend principally to the in<g ref="char:EOLhyphen"/>largement of their own intereſts; what this place may prove in a forraign poſſeſſion, which is not onely an inlet to a future Con<g ref="char:EOLhyphen"/>queſt, but ſhall at preſent contribute moſt (of any particular place in the Kingdom) to the ſubverſion of the whole Nation: it will be vaſt ſummes, and multitude of lives, that will regain it, if once loſt;</p>
+                  <p>And (indeed) there was never more dan<g ref="char:EOLhyphen"/>ger, by reaſon of the many Plots and Conſpi<g ref="char:EOLhyphen"/>racies dayly contriving by the Malignant party, for the bringing in of a Forraign ene<g ref="char:EOLhyphen"/>my.</p>
+                  <p>For, within theſe ſew dayes, (through the divine providence of God) there hath beene diſcovered a great Conſpiracy againſt the whole Kingdom in generall (divers eminent perſons being concerned in it;) which I wil
+<pb facs="tcp:159927:3"/>briefly intimate unto you as followeth;</p>
+                  <p>Some perſons of note who had formerly been in actuall ſervice againſt the Parlia<g ref="char:EOLhyphen"/>ment in this Kingdome, had confederated with the enemy beyond the Seas, to have had an army tranſported from France &amp; Den<g ref="char:EOLhyphen"/>mark, to the Iſland of Loving-land, and ſo to have invaded the Kingdom of England, for the ſubverſion of this Nation, and vio<g ref="char:EOLhyphen"/>lating the Lawes thereof, who (notwith<g ref="char:EOLhyphen"/>ſtanding many difficulties and oppoſitions) are ſo firmly maintained by this preſent Par<g ref="char:EOLhyphen"/>liament.</p>
+                  <p>But I hope, all their Machavilian Plots, and Hell bred Devices will be timely prevented, through the great vigilancy, of the wel-affe<g ref="char:EOLhyphen"/>cted party in this Iſland; For there is no wayes left unaſſayed for the preſervation thereof but keepeth ſtrong guards at all the inlets, or weak places, whereby an enemy may have the advantage to land any Forces: and although their number be but ſmall, yet they are the better able to manage it, by rea<g ref="char:EOLhyphen"/>ſon, there is not above three places, that an enemy can land at, though it be a vaſt and ſpacious place, conſiſting of ſixteen Pariſhes,
+<pb facs="tcp:159927:4"/>(abounding with all things requirable) and ſcituated for a generall accommodation of trade, having the Sea bordering upon a fourth part of it; the other parts being begirt with the great Rivers of Yare and Waurney, by which the Country Comodities are brought unto it, and from thence tranſported unto all tranſmarine parts.</p>
+                  <p>The whole Peninſula is (as it were raiſed) into one intire Hill, defended towards the Sea, with Cliffs and Sànds; and on all parts by Land, ſurrounded with a ſpacious levell of low grounds; amidſt which levell, runs the afore named Rivers, diſcharging them<g ref="char:EOLhyphen"/>ſelves (with a third) into the Sea, through the ſaid Iſland, by which they are all com<g ref="char:EOLhyphen"/>manded:</p>
+                  <p>So that it is in acceſſible by Land, four paſ<g ref="char:EOLhyphen"/>ſages excepted, and one by Sea, called Newton Gap; which place not improperly, for it is a gallant place of ſtrength &amp; pleaſure, having formerly been tearmed Little or Low-Eng<g ref="char:EOLhyphen"/>land.</p>
+                  <p>And it is very much deſired, that this place, (being of ſo great conſequence to England) may be put in ſuch a poſture, that it may
+<pb facs="tcp:159927:4"/>render it ſelfe defenſible upon any attempt whatſoever.</p>
+                  <p>We heare, that the Earle of Montroſſe is very active in Denmark, for the raiſing of For<g ref="char:EOLhyphen"/>ces, and divers other Commanders with him, Prince Rupert doth not lye idle (in France. Moſt of our skillfull. Pylots are gone to Dunkirk, but upon what deſigne wee know not.</p>
+                  <p>Here are divers papiſts within the Iſland it having been a place of refuge ever ſince the beginning of the wars.</p>
+                  <p>Thus, having acquainted you with the chiefeſt of our affaires in theſe parts, I hum<g ref="char:EOLhyphen"/>bly take my leave, and remain</p>
+                  <closer>
+                     <signed>Yours to ſerve you, <hi>N. F.</hi>
+                     </signed>
+                     <dateline>
+                        <hi>Loving land Iſland,</hi> 
+                        <date>
+                           <hi>Feb.</hi> 7. 1647.</date>
+                     </dateline>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>Much more may be declared, to illuſtrate and demonſtrate the danger and neceſſity to prevent all theſe imminent dangers, foure hundred foot ſouldiers maintained, will be a ſufficient remedy againſt enſuing dangers.</p>
+            <pb facs="tcp:159927:5"/>
+            <p>Letters were preſented to the Houſe of Commons coming from beyond Sea, which tell of ſtrange ſto<g ref="char:EOLhyphen"/>ries, how true wee know not, but the relation comes from a good hand.</p>
+            <p>One is a letter from Poland, ſpeaking plainly that the great Aſſembly or Parliament of that Kingdome have put their King under reſtraint for raiſing of for<g ref="char:EOLhyphen"/>ces without their conſent.</p>
+            <p>That they told him freely in open Parliament, he had forfeited his Crown, and that all his ſubjects are thereby diſcharged of their Allegeance, and are not to be furrher ſubject to his commands, That they have commanded the Kings Seal not to be any longer uſed and raiſed a Guard of twelve hundred to attend the King, and keep the Kingdom in Peace.</p>
+            <p>One cauſe of the difference between the King of Po<g ref="char:EOLhyphen"/>land and his ſubjects, is ſaid to be, his endeavor to con<g ref="char:EOLhyphen"/>tinue a warre contrary to the advice of the States and Councel of that Kingdom, and againſt the mind of the Lord Marſhall.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
